@@ -15,5 +15,5 @@ response = requests.request("GET", url, headers=headers).json()
 
 # Create your views here.
 def covidworldview(request):
-    context = {'response': response['response'][random.randrange(1, 200)]}
+    context = {'response': response['response'][random.randrange(0, len(response['response']) - 1)]}
     return render(request,'covidworld.html',context)

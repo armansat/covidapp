@@ -1,4 +1,4 @@
-# covid
+# covid app
 
 :bulb: This app can provide Covid statistics wordwide!
 

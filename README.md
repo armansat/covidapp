@@ -1,6 +1,6 @@
 # covid
 
-:lamp: This app can provide Covid statistics wordwide!
+:bulb: This app can provide Covid statistics wordwide!
 
 ## Getting started
 
